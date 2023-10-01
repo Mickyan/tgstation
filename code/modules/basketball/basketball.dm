@@ -210,5 +210,13 @@
 
 	target.put_in_hands(src)
 
+/obj/item/toy/basketball/peliskpalo
+	name = "light peliskpalo ball"
+	desc = "A cork ball coated in rubber. The inside is mostly hollow, though it's still heavy enough to pack a punch when thrown."
+
+/obj/item/toy/basketball/peliskpalo/genuine
+	name = "peliskpalo ball"
+	desc = "A solid cork ball coated in rubber. They don't call it the 'Game of War' for nothing, this ball is so heavy it could do some very real damage to anyone not trained to handle it."
+
 #undef MAX_DISARM_CHANCE
 #undef MIN_DISARM_CHANCE

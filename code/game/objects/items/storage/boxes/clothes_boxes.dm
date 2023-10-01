@@ -126,6 +126,13 @@
 	new /obj/item/clothing/under/ethereal_tunic/trailwarden(src)
 	new /obj/item/storage/backpack/saddlepack(src)
 
+/obj/item/storage/box/hero/peliskpalostar
+	name = "Tiziran Peliskpalo Superstar - 2520's."
+	desc = "Standing well over two meters and with an impressive physique to match, the 'Colossus of Zagoskeld' was always destined to become a sport sensation but it's his accomplishments that would elevate this lizard to the status of sports legend: an unbroken streak of victories throughout his entire career and the record for the most injuries inflicted on the opposite team. Many modern amendments to the rules enacted to reduce the severity of injuries can be traced back to his career."
+
+/obj/item/storage/box/hero/peliskpalostar/PopulateContents()
+	new TODO
+
 /obj/item/storage/box/holy
 	name = "Templar Kit"
 	/// This item is used to generate a preview image for this set.
